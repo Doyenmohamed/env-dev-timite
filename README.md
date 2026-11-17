@@ -1,4 +1,4 @@
-# env-dev-timite- MON ENVIRONNEMENT DE DEVELOPPEMENT
+# env-dev-timite- Mon environnement de developpement
 
 Environnement de développement de TIMITE – B1 DEV, IFRAN.
 
