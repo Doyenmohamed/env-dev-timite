@@ -25,12 +25,12 @@ Environnement de développement de TIMITE – B1 DEV, IFRAN.
 
 | Logiciel | Version | Commande d'installation                             |
 | -------- | ------- | --------------------------------------------------- |
-| Git      | 2.43.0  | déjà présent dans Ubuntu                            |
-| tree     | v2.3.1  | `sudo apt install -y tree`                          |
+| Git      | 2.53.0  | déjà présent dans Ubuntu                            |
+| tree     | 2.3.1   | `sudo apt install -y tree`                          |
 | htop     | 3.4.1   | `sudo apt install -y htop`                          |
 | nano     | 8.7.1   | `sudo apt install -y nano`                          |
-| Node.js  | 26.xx   | dépôt NodeSource, puis `sudo apt install -y nodejs` |
-| npm      | 11.xx   | installé avec Node.js                               |
+| Node.js  | 26.13.0 | dépôt NodeSource, puis `sudo apt install -y nodejs` |
+| npm      | 11.20.0 | installé avec Node.js                               |
 
 ## Installation
 
